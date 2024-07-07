@@ -13,7 +13,7 @@ export default function Error({ error, reset }) {
  
   return (
     <>
-      <h1>User Error</h1>
+      <h1>User Details Error</h1>
       <ErrorDisplay message={message} reset={reset} />
     </>
     
